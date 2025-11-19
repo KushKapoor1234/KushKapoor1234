@@ -19,7 +19,7 @@ Developed a 1D-CNN time-series classification framework for the **UCI HAR datase
 
 #### **ECG Arrhythmia Classification — MIT-BIH Dataset**
 
-Built a signal-processing pipeline and deep learning model for ECG-based arrhythmia detection. The pipeline includes denoising, beat segmentation, class balancing, and CNN-based feature learning, with attention to interpretability and medical relevance.
+Built a signal-processing pipeline and deep learning model for ECG-based arrhythmia detection. The pipeline includes denoising, beat segmentation, class balancing, and CNN-based feature learning, along with extended time‑frequency analysis (Lomb–Scargle, CWT scalograms, coherence) with attention to interpretability and medical relevance. 
 **Result:** High per-class precision and robust performance across arrhythmia types on benchmark data.
 
 ---
@@ -34,7 +34,7 @@ Built a signal-processing pipeline and deep learning model for ECG-based arrhyth
 
 ### 📬 Contact
 
-* 📧 [kushkapoor.dev@gmail.com](mailto:kushkapoor.dev@gmail.com)
+* 📧 [kushkapoor.dev@gmail.com](mailto:kushkapoor.kk1234@gmail.com)
 * 🌐 [github.com/KushKapoor1234](https://github.com/KushKapoor1234)
 
 ---
