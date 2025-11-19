@@ -10,7 +10,7 @@ I’m an engineering researcher working at the intersection of **signal processi
 
 ---
 
-### 🔬 Current Projects
+### 🔬 Current Projects (As part of Teaching Assistance)
 
 #### **Human Activity Recognition — Time-Series Deep Learning**
 
@@ -34,7 +34,7 @@ Built a signal-processing pipeline and deep learning model for ECG-based arrhyth
 
 ### 📬 Contact
 
-* 📧 [kushkapoor.dev@gmail.com](mailto:kushkapoor.kk1234@gmail.com)
+* 📧 [kushkapoor.kk1234@gmail.com](mailto:kushkapoor.kk1234@gmail.com)
 * 🌐 [github.com/KushKapoor1234](https://github.com/KushKapoor1234)
 
 ---
