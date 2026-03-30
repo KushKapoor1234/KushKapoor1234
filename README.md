@@ -56,8 +56,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KushKapoor1234/StyleSpace_UNIQLO">StyleSpace_UNIQLO</a></h3>
-      <p><b>Multimodal pipeline</b></p>
-      <p>ControlNet-based generation with masked conditioning for structured layout manipulation on fashion images.</p>
+      <p><b>Multimodal CV pipeline</b></p>
+      <p>Virtual try-on pipeline to overlay garments onto user images with masked region control and layout consistency.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KushKapoor1234/RailwayTrack_tampering">Railway Track Detection</a></h3>
