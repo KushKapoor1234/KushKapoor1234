@@ -60,7 +60,7 @@
       <p>Virtual try-on pipeline to overlay garments onto user images with masked region control and layout consistency.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/KushKapoor1234/RailwayTrack_tampering">Railway Track Detection</a></h3>
+      <h3><a href="https://github.com/KushKapoor1234/RailwayTrack_tampering">Railway Track Tampering Detection</a></h3>
       <p><b>Computer vision system</b></p>
       <p>Video-based anomaly detection using frame extraction and object localization under varying environmental conditions.</p>
     </td>
