@@ -13,9 +13,16 @@
 
 <div align="center">
 
-### I build systems where AI, optimization, and product logic meet.
+<p align="center">
+  <b>I build AI/ML systems, GenAI pipelines, and data-driven tools that solve real problems.</b>
+</p>
 
-Applied ML, decision systems, multimodal pipelines, and real-time engineering â€” focused on building working systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 </div>
 
@@ -77,12 +84,25 @@ Applied ML, decision systems, multimodal pipelines, and real-time engineering â€
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,linux,git,github,vscode&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,postgresql,mysql,redis,docker&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tailwind,vercel,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,react,nextjs,flask,fastapi,nodejs,pytorch,tensorflow,sklearn,opencv,mysql,postgres,docker,git,github,bash,anaconda,linux,vscode&perline=13&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&label=" height="40" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&label=" height="40" />
+  <img src="https://img.shields.io/badge/Dask-FDA061?style=for-the-badge&logo=dask&logoColor=black&label=" height="40" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&label=" height="40" />
+</p>
+
 
 ---
 
