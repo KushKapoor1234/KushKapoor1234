@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-0077B6?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Signal%20Processing-SciPy-28a745?style=for-the-badge&logo=scipy&logoColor=white" />
