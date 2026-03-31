@@ -55,14 +55,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/KushKapoor1234/DeepLens">DeepLens_ModelExplorer</a></h3>
+      <p><b>Model Interpretability & Embedding Explorer</b></p>
+      <p>Combines embedding visualization, SHAP attribution, dataset profiling and more in a single cross-filtered dashboard.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/KushKapoor1234/StyleSpace_UNIQLO">StyleSpace_UNIQLO</a></h3>
       <p><b>Multimodal CV pipeline</b></p>
       <p>Virtual try-on pipeline to overlay garments onto user images with masked region control and layout consistency.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KushKapoor1234/RailwayTrack_tampering">Railway Track Tampering Detection</a></h3>
-      <p><b>Computer vision system</b></p>
-      <p>Video-based anomaly detection using frame extraction and object localization under varying environmental conditions.</p>
     </td>
   </tr>
 </table>
@@ -75,6 +75,7 @@
 | Repository | Focus |
 |-----------|------|
 | [MSME-Graph](https://github.com/KushKapoor1234/MSME-Graph) | Graph-based modelling |
+| [Railway Track Tampering Detection](https://github.com/KushKapoor1234/RailwayTrack_tampering) | Computer Vision |
 | [ECG_Arrhythmia_Classifier_MIT-BIH](https://github.com/KushKapoor1234/ECG_Arrhythmia_Classifier_MIT-BIH) | Signal classification |
 | [Time_Series_Human-Activity](https://github.com/KushKapoor1234/Time_Series_Human-Activity) | Time-series modelling |
 
